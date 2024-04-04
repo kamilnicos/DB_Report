@@ -10,8 +10,8 @@ Welcome to Sprawozdanie's documentation!
    :maxdepth: 2
    :caption: Spis treści:
 
-	rozdzialy/rozdzial1
-	rozdzialy/rozdzial2
+   rozdzialy/rozdzial1
+   rozdzialy/rozdzial2
 
 
 .. Indices and tables
